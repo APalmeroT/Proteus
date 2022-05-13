@@ -1,0 +1,16 @@
+en la p buscamos logic state 
+se le da doble click 
+se coloca a b c y d 
+e la p 
+buscamos nor
+doble click 
+mismo procedimiento con nan
+se une con el lapiz
+se coloca otra nan 
+se corre 
+teminales grow
+se coloca el led y se conecta la tierra y a la salida del circuito
+practica 1
+_____________________________________________________________________1
+pratica 2 
+usamos nand y un nor 
